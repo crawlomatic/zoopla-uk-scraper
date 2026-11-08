@@ -1,0 +1,24 @@
+{
+  "name": "zoopla-uk-scraper",
+  "version": "1.0.0",
+  "description": "Extract UK homes for sale and to rent, Zed-Index price estimates, and estate agent contacts from Zoopla.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "zoopla",
+    "uk-property",
+    "estate-agents",
+    "housing-market",
+    "property-data",
+    "proptech",
+    "apify-actor"
+  ],
+  "author": "Crawlomatic (https://crawlomatic.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
